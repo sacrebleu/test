@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>QOS on Ƒasteriser</title>
-    <link>https://fasteriser.co.uk/tags/qos/</link>
+    <link>https://sacrebleu.github.io/test/tags/qos/</link>
     <description>Recent content in QOS on Ƒasteriser</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 14 May 2019 14:46:10 +0600</lastBuildDate>
     
-	<atom:link href="https://fasteriser.co.uk/tags/qos/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://sacrebleu.github.io/test/tags/qos/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Mobile</title>
-      <link>https://fasteriser.co.uk/packages/mobile.2/</link>
+      <link>https://sacrebleu.github.io/test/packages/mobile.2/</link>
       <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
       
-      <guid>https://fasteriser.co.uk/packages/mobile.2/</guid>
+      <guid>https://sacrebleu.github.io/test/packages/mobile.2/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     

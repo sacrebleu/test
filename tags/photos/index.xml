@@ -2,57 +2,57 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Photos on Ƒasteriser</title>
-    <link>https://fasteriser.co.uk/tags/photos/</link>
+    <link>https://sacrebleu.github.io/test/tags/photos/</link>
     <description>Recent content in Photos on Ƒasteriser</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 14 May 2019 14:46:10 +0600</lastBuildDate>
     
-	<atom:link href="https://fasteriser.co.uk/tags/photos/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://sacrebleu.github.io/test/tags/photos/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Broadband</title>
-      <link>https://fasteriser.co.uk/packages/broadband.2/</link>
+      <link>https://sacrebleu.github.io/test/packages/broadband.2/</link>
       <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
       
-      <guid>https://fasteriser.co.uk/packages/broadband.2/</guid>
+      <guid>https://sacrebleu.github.io/test/packages/broadband.2/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
     <item>
       <title>Choosing a provider</title>
-      <link>https://fasteriser.co.uk/packages/broadband.1/</link>
+      <link>https://sacrebleu.github.io/test/packages/broadband.1/</link>
       <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
       
-      <guid>https://fasteriser.co.uk/packages/broadband.1/</guid>
+      <guid>https://sacrebleu.github.io/test/packages/broadband.1/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
     <item>
       <title>Exploring</title>
-      <link>https://fasteriser.co.uk/packages/explore.1/</link>
+      <link>https://sacrebleu.github.io/test/packages/explore.1/</link>
       <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
       
-      <guid>https://fasteriser.co.uk/packages/explore.1/</guid>
+      <guid>https://sacrebleu.github.io/test/packages/explore.1/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
     <item>
       <title>Exploring</title>
-      <link>https://fasteriser.co.uk/packages/explore.2/</link>
+      <link>https://sacrebleu.github.io/test/packages/explore.2/</link>
       <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
       
-      <guid>https://fasteriser.co.uk/packages/explore.2/</guid>
+      <guid>https://sacrebleu.github.io/test/packages/explore.2/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
     <item>
       <title>Three</title>
-      <link>https://fasteriser.co.uk/packages/mobile.1/</link>
+      <link>https://sacrebleu.github.io/test/packages/mobile.1/</link>
       <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
       
-      <guid>https://fasteriser.co.uk/packages/mobile.1/</guid>
+      <guid>https://sacrebleu.github.io/test/packages/mobile.1/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     

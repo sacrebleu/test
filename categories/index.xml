@@ -2,57 +2,57 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Ƒasteriser</title>
-    <link>https://fasteriser.co.uk/categories/</link>
+    <link>https://sacrebleu.github.io/test/categories/</link>
     <description>Recent content in Categories on Ƒasteriser</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 14 May 2019 14:46:10 +0600</lastBuildDate>
     
-	<atom:link href="https://fasteriser.co.uk/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://sacrebleu.github.io/test/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Broadband</title>
-      <link>https://fasteriser.co.uk/categories/broadband/</link>
+      <link>https://sacrebleu.github.io/test/categories/broadband/</link>
       <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
       
-      <guid>https://fasteriser.co.uk/categories/broadband/</guid>
+      <guid>https://sacrebleu.github.io/test/categories/broadband/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mobile</title>
-      <link>https://fasteriser.co.uk/categories/mobile/</link>
+      <link>https://sacrebleu.github.io/test/categories/mobile/</link>
       <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
       
-      <guid>https://fasteriser.co.uk/categories/mobile/</guid>
+      <guid>https://sacrebleu.github.io/test/categories/mobile/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Other</title>
-      <link>https://fasteriser.co.uk/categories/other/</link>
+      <link>https://sacrebleu.github.io/test/categories/other/</link>
       <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
       
-      <guid>https://fasteriser.co.uk/categories/other/</guid>
+      <guid>https://sacrebleu.github.io/test/categories/other/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Phone and Broadband</title>
-      <link>https://fasteriser.co.uk/categories/phone-and-broadband/</link>
+      <link>https://sacrebleu.github.io/test/categories/phone-and-broadband/</link>
       <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
       
-      <guid>https://fasteriser.co.uk/categories/phone-and-broadband/</guid>
+      <guid>https://sacrebleu.github.io/test/categories/phone-and-broadband/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Providers</title>
-      <link>https://fasteriser.co.uk/categories/providers/</link>
+      <link>https://sacrebleu.github.io/test/categories/providers/</link>
       <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
       
-      <guid>https://fasteriser.co.uk/categories/providers/</guid>
+      <guid>https://sacrebleu.github.io/test/categories/providers/</guid>
       <description></description>
     </item>
     

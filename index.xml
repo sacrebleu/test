@@ -2,102 +2,102 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ƒasteriser</title>
-    <link>https://fasteriser.co.uk/</link>
+    <link>https://sacrebleu.github.io/test/</link>
     <description>Recent content on Ƒasteriser</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 14 May 2019 14:46:10 +0600</lastBuildDate>
     
-	<atom:link href="https://fasteriser.co.uk/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://sacrebleu.github.io/test/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Broadband</title>
-      <link>https://fasteriser.co.uk/featured/broadband/</link>
+      <link>https://sacrebleu.github.io/test/featured/broadband/</link>
       <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
       
-      <guid>https://fasteriser.co.uk/featured/broadband/</guid>
+      <guid>https://sacrebleu.github.io/test/featured/broadband/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
     <item>
       <title>Broadband</title>
-      <link>https://fasteriser.co.uk/packages/broadband.2/</link>
+      <link>https://sacrebleu.github.io/test/packages/broadband.2/</link>
       <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
       
-      <guid>https://fasteriser.co.uk/packages/broadband.2/</guid>
+      <guid>https://sacrebleu.github.io/test/packages/broadband.2/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
     <item>
       <title>Choosing a provider</title>
-      <link>https://fasteriser.co.uk/packages/broadband.1/</link>
+      <link>https://sacrebleu.github.io/test/packages/broadband.1/</link>
       <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
       
-      <guid>https://fasteriser.co.uk/packages/broadband.1/</guid>
+      <guid>https://sacrebleu.github.io/test/packages/broadband.1/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
     <item>
       <title>Exploring</title>
-      <link>https://fasteriser.co.uk/packages/explore.1/</link>
+      <link>https://sacrebleu.github.io/test/packages/explore.1/</link>
       <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
       
-      <guid>https://fasteriser.co.uk/packages/explore.1/</guid>
+      <guid>https://sacrebleu.github.io/test/packages/explore.1/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
     <item>
       <title>Exploring</title>
-      <link>https://fasteriser.co.uk/packages/explore.2/</link>
+      <link>https://sacrebleu.github.io/test/packages/explore.2/</link>
       <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
       
-      <guid>https://fasteriser.co.uk/packages/explore.2/</guid>
+      <guid>https://sacrebleu.github.io/test/packages/explore.2/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
     <item>
       <title>Mixed</title>
-      <link>https://fasteriser.co.uk/featured/mixed/</link>
+      <link>https://sacrebleu.github.io/test/featured/mixed/</link>
       <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
       
-      <guid>https://fasteriser.co.uk/featured/mixed/</guid>
+      <guid>https://sacrebleu.github.io/test/featured/mixed/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
     <item>
       <title>Mobile</title>
-      <link>https://fasteriser.co.uk/featured/mobile/</link>
+      <link>https://sacrebleu.github.io/test/featured/mobile/</link>
       <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
       
-      <guid>https://fasteriser.co.uk/featured/mobile/</guid>
+      <guid>https://sacrebleu.github.io/test/featured/mobile/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
     <item>
       <title>Mobile</title>
-      <link>https://fasteriser.co.uk/packages/mobile.2/</link>
+      <link>https://sacrebleu.github.io/test/packages/mobile.2/</link>
       <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
       
-      <guid>https://fasteriser.co.uk/packages/mobile.2/</guid>
+      <guid>https://sacrebleu.github.io/test/packages/mobile.2/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
     <item>
       <title>Other</title>
-      <link>https://fasteriser.co.uk/featured/other/</link>
+      <link>https://sacrebleu.github.io/test/featured/other/</link>
       <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
       
-      <guid>https://fasteriser.co.uk/featured/other/</guid>
+      <guid>https://sacrebleu.github.io/test/featured/other/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
     <item>
       <title>Three</title>
-      <link>https://fasteriser.co.uk/packages/mobile.1/</link>
+      <link>https://sacrebleu.github.io/test/packages/mobile.1/</link>
       <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
       
-      <guid>https://fasteriser.co.uk/packages/mobile.1/</guid>
+      <guid>https://sacrebleu.github.io/test/packages/mobile.1/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
